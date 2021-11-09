@@ -1,0 +1,10 @@
+.card{
+    background-color: rgb(48, 85, 121);
+    width: 350px;
+    border-radius: 10%;
+}
+
+.imageCard{
+    width: 80%;
+    height: 150px;
+}
